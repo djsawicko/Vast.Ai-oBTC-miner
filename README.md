@@ -1,6 +1,6 @@
 # Vast.Ai-oBTC-miner
 
-Guide:
+**Guide:**
 
 1) Make sure you have selected the right image
 ![image](https://user-images.githubusercontent.com/75716744/158411770-cf57a9e6-e8f3-4923-bb82-e51804cc6588.png)
