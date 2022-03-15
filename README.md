@@ -15,4 +15,4 @@
 (Make sure to edit the wallet/pool/rig-name/pass)
 
 
-Happy mining, - RedEye
+Happy mining!
